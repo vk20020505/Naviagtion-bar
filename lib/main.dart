@@ -69,6 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
       favItems--;
     }
     setState(() {});
+    print("vinay kumar");
   }
 
   List<Widget> _buildScreen() {
